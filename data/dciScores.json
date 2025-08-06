@@ -1,0 +1,257 @@
+[
+  {
+    "corps": "Bluecoats",
+    "score": 97.525,
+    "captions": {
+      "ge1": 18.4,
+      "ge2": 18.3,
+      "visualproficiency": 19.6,
+      "visualanalysis": 19.5,
+      "colorguard": 19.2,
+      "musicbrass": 19.5,
+      "musicanalysis": 19.7,
+      "musicpercussion": 19.8
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.500Z",
+    "season": 2025
+  },
+  {
+    "corps": "Boston Crusaders",
+    "score": 96.6,
+    "captions": {
+      "ge1": 18.1,
+      "ge2": 18.0,
+      "visualproficiency": 19.4,
+      "visualanalysis": 19.3,
+      "colorguard": 19.1,
+      "musicbrass": 19.3,
+      "musicanalysis": 19.5,
+      "musicpercussion": 19.7
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.503Z",
+    "season": 2025
+  },
+  {
+    "corps": "Blue Devils",
+    "score": 95.875,
+    "captions": {
+      "ge1": 18.2,
+      "ge2": 18.1,
+      "visualproficiency": 19.3,
+      "visualanalysis": 19.2,
+      "colorguard": 19.0,
+      "musicbrass": 19.4,
+      "musicanalysis": 19.5,
+      "musicpercussion": 19.6
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.503Z",
+    "season": 2025
+  },
+  {
+    "corps": "Carolina Crown",
+    "score": 94.313,
+    "captions": {
+      "ge1": 17.9,
+      "ge2": 17.8,
+      "visualproficiency": 18.8,
+      "visualanalysis": 18.7,
+      "colorguard": 18.7,
+      "musicbrass": 19.8,
+      "musicanalysis": 19.6,
+      "musicpercussion": 18.9
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.503Z",
+    "season": 2025
+  },
+  {
+    "corps": "Phantom Regiment",
+    "score": 94.275,
+    "captions": {
+      "ge1": 17.1,
+      "ge2": 17.0,
+      "visualproficiency": 19.0,
+      "visualanalysis": 18.9,
+      "colorguard": 18.9,
+      "musicbrass": 19.1,
+      "musicanalysis": 19.2,
+      "musicpercussion": 19.2
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.503Z",
+    "season": 2025
+  },
+  {
+    "corps": "Santa Clara Vanguard",
+    "score": 93.0,
+    "captions": {
+      "ge1": 16.9,
+      "ge2": 16.8,
+      "visualproficiency": 18.7,
+      "visualanalysis": 18.6,
+      "colorguard": 18.6,
+      "musicbrass": 18.8,
+      "musicanalysis": 19.0,
+      "musicpercussion": 19.0
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Mandarins",
+    "score": 91.225,
+    "captions": {
+      "ge1": 16.2,
+      "ge2": 16.1,
+      "visualproficiency": 18.4,
+      "visualanalysis": 18.3,
+      "colorguard": 18.3,
+      "musicbrass": 18.5,
+      "musicanalysis": 18.6,
+      "musicpercussion": 18.7
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Blue Stars",
+    "score": 90.55,
+    "captions": {
+      "ge1": 15.8,
+      "ge2": 15.7,
+      "visualproficiency": 18.1,
+      "visualanalysis": 18.0,
+      "colorguard": 18.0,
+      "musicbrass": 18.2,
+      "musicanalysis": 18.3,
+      "musicpercussion": 18.4
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Colts",
+    "score": 89.35,
+    "captions": {
+      "ge1": 15.6,
+      "ge2": 15.5,
+      "visualproficiency": 17.8,
+      "visualanalysis": 17.7,
+      "colorguard": 17.7,
+      "musicbrass": 17.9,
+      "musicanalysis": 18.0,
+      "musicpercussion": 18.1
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "The Cavaliers",
+    "score": 88.95,
+    "captions": {
+      "ge1": 15.4,
+      "ge2": 15.3,
+      "visualproficiency": 17.5,
+      "visualanalysis": 17.4,
+      "colorguard": 17.4,
+      "musicbrass": 17.6,
+      "musicanalysis": 17.7,
+      "musicpercussion": 17.8
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Crossmen",
+    "score": 87.45,
+    "captions": {
+      "ge1": 15.2,
+      "ge2": 15.1,
+      "visualproficiency": 17.2,
+      "visualanalysis": 17.1,
+      "colorguard": 17.1,
+      "musicbrass": 17.3,
+      "musicanalysis": 17.4,
+      "musicpercussion": 17.5
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Spirit of Atlanta",
+    "score": 86.8,
+    "captions": {
+      "ge1": 15.0,
+      "ge2": 14.9,
+      "visualproficiency": 16.9,
+      "visualanalysis": 16.8,
+      "colorguard": 16.8,
+      "musicbrass": 17.0,
+      "musicanalysis": 17.1,
+      "musicpercussion": 17.2
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Pacific Crest",
+    "score": 85.2,
+    "captions": {
+      "ge1": 14.8,
+      "ge2": 14.7,
+      "visualproficiency": 16.6,
+      "visualanalysis": 16.5,
+      "colorguard": 16.5,
+      "musicbrass": 16.7,
+      "musicanalysis": 16.8,
+      "musicpercussion": 16.9
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Madison Scouts",
+    "score": 84.1,
+    "captions": {
+      "ge1": 14.6,
+      "ge2": 14.5,
+      "visualproficiency": 16.3,
+      "visualanalysis": 16.2,
+      "colorguard": 16.2,
+      "musicbrass": 16.4,
+      "musicanalysis": 16.5,
+      "musicpercussion": 16.6
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  },
+  {
+    "corps": "Troopers",
+    "score": 83.25,
+    "captions": {
+      "ge1": 14.4,
+      "ge2": 14.3,
+      "visualproficiency": 16.0,
+      "visualanalysis": 15.9,
+      "colorguard": 15.9,
+      "musicbrass": 16.1,
+      "musicanalysis": 16.2,
+      "musicpercussion": 16.3
+    },
+    "event": "DCI World Championships",
+    "date": "2025-08-05T22:34:01.504Z",
+    "season": 2025
+  }
+]
