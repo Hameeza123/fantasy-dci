@@ -47,8 +47,8 @@ app.use('/api/league', leagueRoutes);
 app.use('/api/user', userRoutes);
 app.use('/api/scores', scoresRoutes);
 
-// Serve static files from the React app in production
-if (process.env.NODE_ENV === 'production') {
+// Serve static files from the React app in production (only for non-Vercel deployments)
+if (process.env.NODE_ENV === 'production' && !process.env.VERCEL) {
   app.use(express.static('client/build'));
   
   // Handle React routing, return all requests to React app
@@ -86,7 +86,7 @@ app.use((err, req, res, next) => {
 });
 
 // 404 handler - only for API routes in production
-if (process.env.NODE_ENV !== 'production') {
+if (process.env.NODE_ENV !== 'production' || process.env.VERCEL) {
   app.use('*', (req, res) => {
     res.status(404).json({ message: 'Route not found' });
   });
